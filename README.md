@@ -47,7 +47,7 @@ Each chart is visually styled using Seaborn for better presentation and insights
 ## 🎥 Screen Recording
 
 You can also watch a quick screen recording of the code execution here:  
-📹 [Watch on Google Drive]([https://your-google-drive-link-here.com](https://drive.google.com/file/d/1VhMzy7VbY2TdxvOMjcdVwvd4NZgYOEx4/view?usp=sharing)) *
+📹 [Watch on Google Drive](https://drive.google.com/file/d/1VhMzy7VbY2TdxvOMjcdVwvd4NZgYOEx4/view?usp=sharing)
 ---
 
 ## 💡 Author
