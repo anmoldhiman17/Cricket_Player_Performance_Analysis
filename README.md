@@ -19,7 +19,6 @@ This dataset is **simulated for demonstration purposes** and includes fictional 
 - Batting Average
 - Player Roles (Batsman, Bowler, All-Rounder)
 
-> Optionally, you can replace it with a real IPL dataset from Kaggle:
 🔗 [Kaggle: IPL Player Stats Dataset](https://www.kaggle.com/datasets/saivarunreddy1904/ipl-player-stats-dataset)
 
 ---
